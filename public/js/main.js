@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const contentMap = {
     about: `
       <h2>> Sobre mí</h2>
-      <p>Soy un desarrollador Backend Junior especializado en Node.js, Express y MongoDB, con enfoque en datos, rendimiento y escalabilidad.</p>
+      <p>Desarrollador Full Stack formado en el bootcamp de Campuslands, con dominio de tecnologías como JavaScript, Node.js, Express, MongoDB, HTML y CSS. Combino habilidades de frontend y backend para construir aplicaciones completas, escalables y funcionales. Me destaco por mi capacidad de análisis, liderazgo, pensamiento lógico y adaptabilidad. Tengo especial interés en desarrollar soluciones que involucren la gestión eficiente de datos y una experiencia de usuario sólida. Aplico metodologías ágiles como SCRUM y buenas prácticas de control de versiones con Git y GitHub.</p>
     `,
     skills: `
       <h2>> Habilidades</h2>
