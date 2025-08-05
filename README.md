@@ -4,6 +4,19 @@ Bienvenido a mi portafolio profesional desarrollado con temática **CLI (Command
 
 ---
 
+## 🎨 Diseño en Figma
+
+El diseño de este portafolio fue conceptualizado y prototipado en Figma.  
+Puedes visualizarlo aquí:  
+🔗 [Ver diseño en Figma](https://www.figma.com/file/TU_ID_DEL_DOCUMENTO/NOMBRE_DEL_PROYECTO)
+
+Incluye:
+- Versión Desktop
+- Versión Tablet
+- Versión Mobile
+
+---
+
 ## 🧠 Sobre mí
 
 Soy **Brian Suarez (BrianS)**, desarrollador backend con formación en **Node.js**, **Express** y **MongoDB**. Me especializo en crear soluciones robustas centradas en el análisis, control y tratamiento de datos, con un enfoque lógico, estructurado y orientado a la seguridad de la información.
